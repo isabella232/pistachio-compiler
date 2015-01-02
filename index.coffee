@@ -1,5 +1,4 @@
 falafel = require 'falafel'
-{argv} = require 'optimist'
 
 compile = require './compile'
 
